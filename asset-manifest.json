@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TVKhang-Portfolio/static/css/main.511981d2.css",
+    "main.js": "/TVKhang-Portfolio/static/js/main.ac8e87f4.js",
+    "static/media/HeroImg.jpg": "/TVKhang-Portfolio/static/media/HeroImg.720acd22fe137b0af017.jpg",
+    "static/media/ninja.png": "/TVKhang-Portfolio/static/media/ninja.ad2870974a8ba799e032.png",
+    "static/media/sql.png": "/TVKhang-Portfolio/static/media/sql.ca86100dc39c04d7bbd3.png",
+    "index.html": "/TVKhang-Portfolio/index.html",
+    "main.511981d2.css.map": "/TVKhang-Portfolio/static/css/main.511981d2.css.map",
+    "main.ac8e87f4.js.map": "/TVKhang-Portfolio/static/js/main.ac8e87f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.511981d2.css",
+    "static/js/main.ac8e87f4.js"
+  ]
+}
