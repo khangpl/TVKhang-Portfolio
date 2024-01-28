@@ -18,7 +18,7 @@ const About = () => {
         <p className="text-xl">
         I find joy in staying on the pulse of emerging technologies. Whether it's experimenting with the newest gadgets, exploring the possibilities of augmented reality, or delving into the intricacies of smart devices, I love the dynamic nature of the tech world. <br /> <br />
         I've spent three months at UTA Solution, gaining hands-on experience and contributing to real-world projects. My work style is characterized by diligence, seriousness, and honesty. <br /> <br />
-        Outside of class, I've independently developed three projects, showcasing my practical skills and commitment to innovation.
+        
         </p>
       </div>
     </div>
